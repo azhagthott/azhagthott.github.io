@@ -6,7 +6,6 @@ favicon: images/favicon.ico
 name: Francisco Barrios
 title: Android developer
 email: fbarrios80@gmail.com
-website: www.github.com/sproogen/resume-theme
 
 # Social links
 #twitter_username: facespics
@@ -16,6 +15,7 @@ github_username:  azhagthott
 # flickr_username: jekyll
 # instagram_username: chillwildlife
 linkedin_username: franciscobg80
+stackoverflow_username: azhagthott
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -41,10 +41,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Gym
+   - Play Guitar
+   - Cooking
 
 # Footer
 footer_show_references: true
