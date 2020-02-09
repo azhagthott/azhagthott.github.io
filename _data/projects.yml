@@ -1,8 +1,14 @@
 - layout: top-middle
   name: ToDo App
-  link: github.com/azhagthott/TodoList.
-  github: sproogen/resume-theme
+  github: azhagthott/TodoList
   quote: >
     ToDo App (Yet another ToDo App)
   description: | # this will include new lines to allow paragraphs
     This is a demo application, developed in Java and implementing Clean Architecture + MVP + RxJava
+
+  name: ARBook
+  github: azhagthott/ARbook
+  quote: >
+    ARBook, one story for halloween
+  description: | # this will include new lines to allow paragraphs
+    In this demo app I implement ARCore and Image recognition
