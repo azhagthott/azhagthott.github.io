@@ -5,3 +5,20 @@
   dates: October 2018 - October 2019
   description: | # this will include new lines to allow paragraphs
     Appy.Town is a complete communication and management platform for your office, condo, village, hotel or service apartment. Appy.Town helps the building managers keep in contact with all the tenants, share news, manage bills and much much more!.
+
+- layout: left
+  company: Seidor Chile / Cencosud
+  link: www.seidor.cl/content/seidor-latam-cl/es.html
+  link: www.cencosud.com
+  job_title: Android Developer
+  dates: Mar 2017 - October 2018
+  description: | # this will include new lines to allow paragraphs
+    Android developer
+
+- layout: left
+  company: Zecovery Ltda
+  link: www.zecovery.com
+  job_title: PHP Developer / QA / Sys Admin
+  dates: Mar 2011 - Mar 2017
+  description: | # this will include new lines to allow paragraphs
+    Android developer
