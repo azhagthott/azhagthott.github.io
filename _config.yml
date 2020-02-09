@@ -25,7 +25,7 @@ stackoverflow_username: "1712446"
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Francisco and I'm a Android developer. I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-  I am most skilled in: <mark>Android</mark>, <mark>Java</mark> and now I'm learning <mark>Kotlin</mark>
+  I am most skilled in: <mark>Android</mark>, <mark>Java</mark> and currently now I'm learning <mark>Kotlin</mark>
 
 # Experience Section
 # experience_title: Experience
