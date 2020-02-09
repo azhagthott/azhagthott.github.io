@@ -7,3 +7,14 @@
    Develop android app
   description: | # this will include new lines to allow paragraphs
     Appy.Town is a complete communication and management platform for your office, condo, village, hotel or service apartment. Appy.Town helps the building managers keep in contact with all the tenants, share news, manage bills and much much more!
+
+- layout: left
+  company: Appy Corp.
+  link: app.appy.town
+  job_title: Android Developer
+  dates: October 2018 - October 2019
+  quote: >
+   Develop android app
+  description: | # this will include new lines to allow paragraphs
+    Appy.Town is a complete communication and management platform for your office, condo, village, hotel or service apartment. Appy.Town helps the building managers keep in contact with all the tenants, share news, manage bills and much much more!
+s
