@@ -1,8 +1,6 @@
 - layout: left
-  name: Universidad de Los Lagos, San Fernando, Chile
+  name: Universidad de Los Lagos
   dates: 2005 - 2010
   qualification: Computer Engieneer 
-  quote: >
-    ----
   description: | # this will include new lines to allow paragraphs
-    ----
+    
