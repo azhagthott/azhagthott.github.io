@@ -6,6 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     This is a demo application, developed in Java and implementing Clean Architecture + MVP + RxJava
 
+- layout: top-middle
   name: ARBook
   github: azhagthott/ARbook
   quote: >
